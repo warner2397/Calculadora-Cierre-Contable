@@ -1,0 +1,29 @@
+
+
+Fecha: 03/11/2019
+Moneda: Colones
+Valor: 500.0
+Tipo: Moneda
+Cantidad: 5
+Total: 2500.0
+
+-------------------------------------
+
+
+
+Fecha: 03/11/2019
+Moneda: Colones
+Valor: 50.0
+Tipo: Moneda
+Cantidad: 30
+Total: 1500.0
+
+-------------------------------------
+
+
+*_*_*_*CIERRE DE CAJA*_*_*_*_
+Fecha: 03/11/2019
+Hora: 23:36:22
+El total del cierre de caja es de: 4000.0
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
+

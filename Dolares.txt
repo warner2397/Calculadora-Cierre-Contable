@@ -1,0 +1,39 @@
+C:\Users\pc\Desktop\imagenDolar\US_One_Cent_Obv.png
+0.01
+Moneda
+C:\Users\pc\Desktop\imagenDolar\5 centab.png
+0.05
+Moneda
+C:\Users\pc\Desktop\imagenDolar\10 centa.png
+0.1
+Moneda
+C:\Users\pc\Desktop\imagenDolar\25 centab.png
+0.25
+Moneda
+C:\Users\pc\Desktop\imagenDolar\50 centab.png
+0.5
+Moneda
+C:\Users\pc\Desktop\imagenDolar\1 dolar.png
+1.0
+Moneda
+C:\Users\pc\Desktop\imagenDolar\1 dolar billete.jpg
+1.0
+Billete
+C:\Users\pc\Desktop\imagenDolar\US_$2_obverse.jpg
+2.0
+Billete
+C:\Users\pc\Desktop\imagenDolar\US_$5_Series_2006_obverse.jpg
+5.0
+Billete
+C:\Users\pc\Desktop\imagenDolar\1280px-US10dollarbill-Series_2004A.jpg
+10.0
+Billete
+C:\Users\pc\Desktop\imagenDolar\1920px-US20-front.jpg
+20.0
+Billete
+C:\Users\pc\Desktop\imagenDolar\50_USD_Series_2004_Note_Front.jpg
+50.0
+Billete
+C:\Users\pc\Desktop\imagenDolar\Obverse_of_the_series_2009_$100_Federal_Reserve_Note.jpg
+100.0
+Billete
